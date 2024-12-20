@@ -4,7 +4,7 @@ Líder de QA apaixonado por Linux e Open Source, focado em construir e orientar 
 
 ## Stack Técnico
 ```
-🐧 Sistema: Arch Linux
+🐧 Sistemas: Gentoo, WSL Ubuntu
 🔧 Automação: Cypress
 🔍 Frameworks: JavaScript, Python
 📊 Gestão: Azure DevOps, Jira
@@ -18,7 +18,6 @@ Líder de QA apaixonado por Linux e Open Source, focado em construir e orientar 
 
 ## Certificações
 - ISTQB CTFL
-- Em preparação para CTAL-TTA
 
 ## Áreas de Expertise
 - Liderança técnica de times de QA
